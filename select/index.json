@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Woolly",
+  "base_artist": "さとうもか",
+  "createdAt": "2026-03-13T06:30:13.898514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Woolly Muffler",
+      "artist": "Harvey Danger",
+      "has_synced": true,
+      "path": "select/01_Woolly_Muffler_Harvey_Danger.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Big Chief Woolly Bosher",
+      "artist": "The Idle Race",
+      "has_synced": false,
+      "path": "select/02_Big_Chief_Woolly_Bosher_The_Idle_Race.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Woolly Bully",
+      "artist": "Bad Manners",
+      "has_synced": true,
+      "path": "select/03_Woolly_Bully_Bad_Manners.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Woolly Mammoth's Mighty Absence",
+      "artist": "Mount Eerie",
+      "has_synced": true,
+      "path": "select/04_Woolly_Mammoth's_Mighty_Absence_Mount_Eerie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Woolly Bully",
+      "artist": "Sam The Sham & The Pharaohs",
+      "has_synced": true,
+      "path": "select/05_Woolly_Bully_Sam_The_Sham_&_The_Pharaohs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You’re My Baby (Little Woolly Booger)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_You’re_My_Baby_(Little_Woolly_Booger)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Woolly Bully (Live)",
+      "artist": "Bad Manners",
+      "has_synced": false,
+      "path": "select/07_Woolly_Bully_(Live)_Bad_Manners.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're My Baby (Little Woolly Booger)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/08_You're_My_Baby_(Little_Woolly_Booger)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're My Baby (Little Woolly Booger) - (Bonus Track - Originally Unissued Undubbed Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/09_You're_My_Baby_(Little_Woolly_Booger)_-_(Bonus_Track_-_Originally_Unissued_Undub_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Woolly",
+      "artist": "satomoka",
+      "has_synced": true,
+      "path": "select/10_Woolly_satomoka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Woolly",
+      "artist": "さとうもか",
+      "has_synced": true,
+      "path": "select/11_Woolly_さとうもか.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Woolly",
+      "artist": "さとうもか",
+      "has_synced": false,
+      "path": "select/pl_01_Woolly_さとうもか.txt"
+    }
+  ]
+}
